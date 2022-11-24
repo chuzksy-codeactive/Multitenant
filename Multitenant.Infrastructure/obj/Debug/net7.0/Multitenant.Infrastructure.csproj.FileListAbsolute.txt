@@ -1,0 +1,17 @@
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\bin\Debug\net7.0\Multitenant.Infrastructure.deps.json
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\bin\Debug\net7.0\Multitenant.Infrastructure.dll
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\bin\Debug\net7.0\Multitenant.Infrastructure.pdb
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\bin\Debug\net7.0\Multitenant.Core.dll
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\bin\Debug\net7.0\Multitenant.Core.pdb
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.AssemblyInfo.cs
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.csproj.CopyComplete
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.dll
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\refint\Multitenant.Infrastructure.dll
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.pdb
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\ref\Multitenant.Infrastructure.dll
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\bin\Debug\net7.0\Multitenant.Infrastructure.runtimeconfig.json
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Infrastructure\obj\Debug\net7.0\Multitenant.Infrastructure.genruntimeconfig.cache

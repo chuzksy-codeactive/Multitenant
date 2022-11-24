@@ -1,0 +1,12 @@
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\bin\Debug\net7.0\Multitenant.Core.deps.json
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\bin\Debug\net7.0\Multitenant.Core.dll
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\bin\Debug\net7.0\Multitenant.Core.pdb
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\Multitenant.Core.csproj.AssemblyReference.cache
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\Multitenant.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\Multitenant.Core.AssemblyInfoInputs.cache
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\Multitenant.Core.AssemblyInfo.cs
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\Multitenant.Core.csproj.CoreCompileInputs.cache
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\Multitenant.Core.dll
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\refint\Multitenant.Core.dll
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\Multitenant.Core.pdb
+C:\Users\Chika Onuchukwu\source\repos\Multitenant\Multitenant.Core\obj\Debug\net7.0\ref\Multitenant.Core.dll
